@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"install:browser":"playwright install chromium"},"dependencies":{"@playwright/mcp":"latest","playwright":"latest"}}
